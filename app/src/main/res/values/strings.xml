@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Xkcd-Viewer</string>
+    <string name="last_page"><![CDATA[>|]]></string>
+    <string name="random">Random</string>
+    <string name="first_page"><![CDATA[|<]]></string>
+    <string name="prev"><![CDATA[<Prev]]></string>
+    <string name="next"><![CDATA[Next>]]></string>
 </resources>
